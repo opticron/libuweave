@@ -1,0 +1,11 @@
+{
+  "name": "libuweave",
+  "keywords": "weave, brillo, automation, m2m",
+  "description": "An Arduino library to enable communication with Google Weave devices",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/interactive-matter/aJson.git"
+  },
+  "frameworks": "arduino",
+  "platforms": "atmelavr"
+}
